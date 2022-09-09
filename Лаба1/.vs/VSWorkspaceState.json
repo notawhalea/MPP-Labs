@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Tracer",
+    "\\Tracer\\Core",
+    "\\Tracer\\Example",
+    "\\Tracer\\Serialization",
+    "\\Tracer\\Serialization\\Abstractions"
+  ],
+  "PreviewInSolutionExplorer": false
+}

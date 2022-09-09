@@ -1,0 +1,15 @@
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\obj\Debug\net6.0\TracerLab.csproj.AssemblyReference.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\obj\Debug\net6.0\TracerLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\obj\Debug\net6.0\TracerLab.AssemblyInfoInputs.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\obj\Debug\net6.0\TracerLab.AssemblyInfo.cs
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\obj\Debug\net6.0\TracerLab.csproj.CoreCompileInputs.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\bin\Debug\net6.0\TracerLab.exe
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\bin\Debug\net6.0\TracerLab.deps.json
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\bin\Debug\net6.0\TracerLab.runtimeconfig.json
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\bin\Debug\net6.0\TracerLab.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\bin\Debug\net6.0\TracerLab.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\obj\Debug\net6.0\TracerLab.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\obj\Debug\net6.0\refint\TracerLab.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\obj\Debug\net6.0\TracerLab.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\obj\Debug\net6.0\TracerLab.genruntimeconfig.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\TracerLab\obj\Debug\net6.0\ref\TracerLab.dll
