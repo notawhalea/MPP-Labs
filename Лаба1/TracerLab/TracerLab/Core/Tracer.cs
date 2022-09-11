@@ -1,25 +1,42 @@
+using System;
+using System.Collections.Concurrent;
+using System.Diagnostics;
+using System.Threading;
 public class Tracer : ITracer
 {
     private readonly TraceResult _traceResult;
 
     public Tracer()
     {
-        //todo
+        _traceResult = new TraceResult(new ConcurrentDictionary<int, ThreadTrace>());
     }
 
     public void StartTrace()
     {
-        //todo
+        var threadTrace = _traceResult.GetThreadTrace(Thread.CurrentThread.ManagedThreadId);
+
+        var stackTrace = new StackTrace();
+
+        var path = stackTrace.ToString().Split(new string[] { "\r\n" }, StringSplitOptions.None);
+        path[0] = "";
+
+        var methodName = stackTrace.GetFrames()[1].GetMethod().Name;
+        var className = stackTrace.GetFrames()[1].GetMethod().ReflectedType.Name;
+
+        threadTrace.PushMethod(methodName, className, string.Join("", path));
     }
 
     public void StopTrace()
     {
-        //todo
+        var threadTrace = _traceResult.GetThreadTrace(Thread.CurrentThread.ManagedThreadId);
+        var path = new StackTrace().ToString().Split(new string[] { "\r\n" }, StringSplitOptions.None);
+        path[0] = "";
+
+        threadTrace.PopMethod(string.Join("", path));
     }
 
     public TraceResult GetTraceResult()
     {
-        //todo
-        return null;
+        return _traceResult;
     }
 }
