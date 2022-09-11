@@ -1,0 +1,5 @@
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\Serialization\obj\Debug\net6.0\Tracer.csproj.AssemblyReference.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\Serialization\obj\Debug\net6.0\Tracer.GeneratedMSBuildEditorConfig.editorconfig
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\Serialization\obj\Debug\net6.0\Tracer.AssemblyInfoInputs.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\Serialization\obj\Debug\net6.0\Tracer.AssemblyInfo.cs
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\Serialization\obj\Debug\net6.0\Tracer.csproj.CoreCompileInputs.cache

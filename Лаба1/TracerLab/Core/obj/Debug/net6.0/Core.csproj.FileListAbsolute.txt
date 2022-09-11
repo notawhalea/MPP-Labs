@@ -1,0 +1,5 @@
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache

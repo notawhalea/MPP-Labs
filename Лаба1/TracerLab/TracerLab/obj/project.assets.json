@@ -10,6 +10,30 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
+      },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
+      "Tracer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Core": "1.0.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Tracer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tracer.dll": {}
+        }
       }
     }
   },
@@ -40,11 +64,23 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
+    "Tracer/1.0.0": {
+      "type": "project",
+      "path": "../Serialization/Tracer.csproj",
+      "msbuildProject": "../Serialization/Tracer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Newtonsoft.Json >= 13.0.1"
+      "Core >= 1.0.0",
+      "Newtonsoft.Json >= 13.0.1",
+      "Tracer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -73,7 +109,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\БГУИР\\3 курс\\5 семестр\\СПП\\Лабораторные\\Лаба1\\TracerLab\\Core\\Core.csproj": {
+              "projectPath": "D:\\БГУИР\\3 курс\\5 семестр\\СПП\\Лабораторные\\Лаба1\\TracerLab\\Core\\Core.csproj"
+            },
+            "D:\\БГУИР\\3 курс\\5 семестр\\СПП\\Лабораторные\\Лаба1\\TracerLab\\Serialization\\Tracer.csproj": {
+              "projectPath": "D:\\БГУИР\\3 курс\\5 семестр\\СПП\\Лабораторные\\Лаба1\\TracerLab\\Serialization\\Tracer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
