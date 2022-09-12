@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-16"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <thread id="1" time="231">
-    <methods name="MyMethod" class="Foo" time="116">
-      <methods name="InnerMethod" class="Bar" time="115" />
+  <thread id="1" time="221">
+    <methods name="MyMethod" class="Foo" time="111">
+      <methods name="InnerMethod" class="Bar" time="110" />
     </methods>
   </thread>
-  <thread id="7" time="103">
-    <methods name="Method" class="MainClass" time="103" />
+  <thread id="10" time="115">
+    <methods name="Method" class="MainClass" time="115" />
   </thread>
 </root>

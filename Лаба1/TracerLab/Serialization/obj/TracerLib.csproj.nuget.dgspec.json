@@ -104,6 +104,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"

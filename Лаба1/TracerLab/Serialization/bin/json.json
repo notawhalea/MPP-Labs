@@ -2,17 +2,17 @@
   "threads": [
     {
       "ThreadId": 1,
-      "ThreadTime": 231,
+      "ThreadTime": 221,
       "MethodInfo": [
         {
           "MethodName": "MyMethod",
           "ClassName": "Foo",
-          "Time": 116.0,
+          "Time": 111.0,
           "ChildMethods": [
             {
               "MethodName": "InnerMethod",
               "ClassName": "Bar",
-              "Time": 115.0,
+              "Time": 110.0,
               "ChildMethods": null
             }
           ]
@@ -20,13 +20,13 @@
       ]
     },
     {
-      "ThreadId": 7,
-      "ThreadTime": 103,
+      "ThreadId": 10,
+      "ThreadTime": 115,
       "MethodInfo": [
         {
           "MethodName": "Method",
           "ClassName": "MainClass",
-          "Time": 103.0,
+          "Time": 115.0,
           "ChildMethods": null
         }
       ]

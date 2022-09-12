@@ -17,3 +17,4 @@ D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаб
 D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\Serialization\obj\Debug\net6.0\TracerLib.pdb
 D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\Serialization\obj\Debug\net6.0\TracerLib.genruntimeconfig.cache
 D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\Serialization\obj\Debug\net6.0\ref\TracerLib.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба1\TracerLab\Serialization\bin\Debug\net6.0\nunit.framework.dll
