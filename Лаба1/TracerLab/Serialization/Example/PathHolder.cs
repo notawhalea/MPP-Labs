@@ -13,10 +13,10 @@ namespace Tracer.Example
         {
 
             var projectDirectory = Directory.GetParent(Environment.CurrentDirectory).Parent.FullName;
-            var dataPath = Path.Combine(projectDirectory, "Files");
+            //var dataPath = Path.Combine(projectDirectory, "Files");
 
-            JsonPath = Path.GetFullPath(Path.Combine(dataPath, "json.json"));
-            XmlPath = Path.GetFullPath(Path.Combine(dataPath, "test.xml"));
+            JsonPath = Path.GetFullPath(Path.Combine(projectDirectory, "json.json"));
+            XmlPath = Path.GetFullPath(Path.Combine(projectDirectory, "test.xml"));
 
         }
     }

@@ -72,9 +72,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\БГУИР\\3 курс\\5 семестр\\СПП\\Лабораторные\\Лаба1\\TracerLab\\Serialization\\Tracer.csproj",
-      "projectName": "Tracer",
-      "projectPath": "D:\\БГУИР\\3 курс\\5 семестр\\СПП\\Лабораторные\\Лаба1\\TracerLab\\Serialization\\Tracer.csproj",
+      "projectUniqueName": "D:\\БГУИР\\3 курс\\5 семестр\\СПП\\Лабораторные\\Лаба1\\TracerLab\\Serialization\\TracerLib.csproj",
+      "projectName": "TracerLib",
+      "projectPath": "D:\\БГУИР\\3 курс\\5 семестр\\СПП\\Лабораторные\\Лаба1\\TracerLab\\Serialization\\TracerLib.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "D:\\БГУИР\\3 курс\\5 семестр\\СПП\\Лабораторные\\Лаба1\\TracerLab\\Serialization\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PJaqP3DVo+C6es6H4kLKnR/FNWbHHwbWbzaUVoaS/iRomzhWeBoA3cbRLve657izWIONL+E850lnaByxmk1vAg==",
+  "dgSpecHash": "J8616i3oVVCPTjZ8CXoe7126Pd0Wm4sdeOvwITMryQQ3z6I+R5VjYT8fHfpSJb8IJBAwo5V4+kdsl7Vsr0MIiw==",
   "success": true,
-  "projectFilePath": "D:\\БГУИР\\3 курс\\5 семестр\\СПП\\Лабораторные\\Лаба1\\TracerLab\\Serialization\\Tracer.csproj",
+  "projectFilePath": "D:\\БГУИР\\3 курс\\5 семестр\\СПП\\Лабораторные\\Лаба1\\TracerLab\\Serialization\\TracerLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
