@@ -1,0 +1,58 @@
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\Faker.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.Buffers.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.Memory.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.Numerics.Vectors.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.Text.Encodings.Web.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.Text.Json.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.ValueTuple.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\Faker.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.Buffers.xml
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.Memory.xml
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.Numerics.Vectors.xml
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.Text.Encodings.Web.xml
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.Text.Json.xml
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\bin\Debug\System.ValueTuple.xml
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\obj\Debug\MainApp.csproj.AssemblyReference.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\obj\Debug\MainApp.csproj.CopyComplete
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\Faker.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\Faker.pdb
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.Text.Json.xml
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\obj\Debug\MainApp.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

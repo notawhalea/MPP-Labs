@@ -1,0 +1,6 @@
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\Faker\bin\Debug\Faker.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\Faker\bin\Debug\Faker.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\Faker\obj\Debug\Faker.csproj.AssemblyReference.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\Faker\obj\Debug\Faker.csproj.CoreCompileInputs.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\Faker\obj\Debug\Faker.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\Faker\obj\Debug\Faker.pdb
