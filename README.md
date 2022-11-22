@@ -42,4 +42,5 @@ I just relax and gained experience here.
 [Link on technical task for all labs](https://bsuir.ishimko.me/mpp-dotnet)
 
 Still in progress? Convert to draft!:wink:
-**********
+
+>And no one ever knows.She's on my mind when I'm on yours, oh.I'm not here for games.I told you what it is, you chose to stay, oh.Baby, you chose the pain.Cause you don't know me, you just know my name.:microphone:Renegade - Aaryan Shah
