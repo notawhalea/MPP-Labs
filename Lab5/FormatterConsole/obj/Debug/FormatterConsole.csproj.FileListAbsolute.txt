@@ -1,0 +1,16 @@
+C:\Users\Gleb\Desktop\For Git\String-Formatter\FormatterConsole\bin\Debug\FormatterConsole.exe.config
+C:\Users\Gleb\Desktop\For Git\String-Formatter\FormatterConsole\bin\Debug\FormatterConsole.exe
+C:\Users\Gleb\Desktop\For Git\String-Formatter\FormatterConsole\bin\Debug\FormatterConsole.pdb
+C:\Users\Gleb\Desktop\For Git\String-Formatter\FormatterConsole\obj\Debug\FormatterConsole.csproj.AssemblyReference.cache
+C:\Users\Gleb\Desktop\For Git\String-Formatter\FormatterConsole\obj\Debug\FormatterConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gleb\Desktop\For Git\String-Formatter\FormatterConsole\obj\Debug\FormatterConsole.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Desktop\For Git\String-Formatter\FormatterConsole\obj\Debug\FormatterConsole.exe
+C:\Users\Gleb\Desktop\For Git\String-Formatter\FormatterConsole\obj\Debug\FormatterConsole.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба5\spppp\String-Formatter\FormatterConsole\bin\Debug\FormatterConsole.exe.config
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба5\spppp\String-Formatter\FormatterConsole\bin\Debug\FormatterConsole.exe
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба5\spppp\String-Formatter\FormatterConsole\bin\Debug\FormatterConsole.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба5\spppp\String-Formatter\FormatterConsole\obj\Debug\FormatterConsole.csproj.AssemblyReference.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба5\spppp\String-Formatter\FormatterConsole\obj\Debug\FormatterConsole.csproj.SuggestedBindingRedirects.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба5\spppp\String-Formatter\FormatterConsole\obj\Debug\FormatterConsole.csproj.CoreCompileInputs.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба5\spppp\String-Formatter\FormatterConsole\obj\Debug\FormatterConsole.exe
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба5\spppp\String-Formatter\FormatterConsole\obj\Debug\FormatterConsole.pdb
