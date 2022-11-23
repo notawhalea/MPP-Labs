@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StringFormatter.Interfaces
+namespace FormatterConsole.Interfaces
 {
     internal interface IStringFormatter
     {
+        string Format(string template, params object[] parameters);
     }
 }
