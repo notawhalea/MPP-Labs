@@ -37,6 +37,27 @@ The padding must be recursive (if the field is another object, then it must also
 
 Creating collections should be done in the same way as creating other types that have generators.
 **********
+**FIFTH LAB**:astonished:
+
+**STRING FORMATTER**
+
+[Link on technical task](https://bsuir.ishimko.me/mpp-dotnet/5-string-formatter)
+
+Here i implement a StringFormatter class with a single Format method that should do a simplified "string interpolation".
+
+For simplified access to a ready-made formatter instance, it is recommended to declare a static field in the class implementation with the created "default" instance
+
+Full string interpolation has been available since C# 6.0 and allows you to perform in-place substitution of variables, fields, properties, and expressions in string literals:
+int a = 2021;
+string = "spp";
+string result = $"{s.ToUpper()}-{a+1}"; // SPP-2022
+
+In this lab, you need to implement a simplified string interpolation, when only the fields and properties of the passed object are substituted.
+
+Expressions should only be compiled once and stored as delegates.
+The cache must be thread-safe because the Format method can be called simultaneously from multiple threads.
+The operation of the Formatter should be fully verified with unit tests. The use of an auxiliary console program for this is prohibited.
+**********
 I just relax and gained experience here.
 
 [Link on technical task for all labs](https://bsuir.ishimko.me/mpp-dotnet)
