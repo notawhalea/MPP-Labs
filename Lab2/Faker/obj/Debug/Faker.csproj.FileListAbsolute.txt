@@ -4,3 +4,9 @@ D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаб
 D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\Faker\obj\Debug\Faker.csproj.CoreCompileInputs.cache
 D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\Faker\obj\Debug\Faker.dll
 D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба2\LaboratoryWork_Faker-master\LaboratoryWork_Faker-master\Faker\obj\Debug\Faker.pdb
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\Faker\bin\Debug\Faker.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\Faker\bin\Debug\Faker.pdb
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\Faker\obj\Debug\Faker.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\Faker\obj\Debug\Faker.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\Faker\obj\Debug\Faker.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab2\Faker\obj\Debug\Faker.pdb

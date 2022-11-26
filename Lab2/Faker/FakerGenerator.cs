@@ -73,8 +73,6 @@ namespace Faker
             else
                 // Для ссылочных типов значение по умолчанию всегда null.
                 return null;
-
-            
         }
 
         //примитивные типы
@@ -225,9 +223,6 @@ namespace Faker
                 }
             }
 
-
-          
-
             //property - получаем список всех свойств (например для класса Person это Name,Surname,Age,IsHasDog
             var propertyInfos = randomlyGeneratedObject.GetType().GetProperties().Where(p => !p.SetMethod.IsPrivate).ToList();
             //публичные поля
@@ -303,14 +298,11 @@ namespace Faker
             return maxParamConstructor;
         }
 
-
         private object GenerateInstanceWithAStructureVariable(Type t)
         {
             // тоже самое как и у класса
             return GenerateInstanceWithAClassTypeVariable(t);
         }
-
-
 ////////////////////////////////////////////  ПРИМИТИВНЫЕ ТИПЫ    ////////////////////////////////////////////////////////////////////////////////
 
         private int GenerateRandomIntegerNumber()

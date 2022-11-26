@@ -2,8 +2,10 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Reflection;
 using System.Text;
+using static FormatterConsole.Program;
 
 namespace FormatterConsole
 {
@@ -31,7 +33,7 @@ namespace FormatterConsole
             {
                 for (int i = 0; i < bracketIndexes.Count - 1; i++)
                 {
-                    if (bracketIndexes[i] == bracketIndexes[i+1] - 1) // Если собки стоят друг за другом - их не включаем
+                    if (bracketIndexes[i] == bracketIndexes[i+1] - 1) // Если скобки стоят друг за другом - их не включаем
                     {
                         bracketIndexes.RemoveRange(i, 2);
                         break;
@@ -89,6 +91,7 @@ namespace FormatterConsole
 
                 try
                 {
+                    //лямбда экспрешн
                     res.Append(objectsFields.First(fieldInfo => fieldInfo.FieldName == variableInBrackets).FieldValue);
                 }
                 catch (InvalidOperationException)
@@ -107,6 +110,8 @@ namespace FormatterConsole
 
             return res.ToString();
         }
+        Expression<Func<User, string>> firstNameAccessor = (User user) => user.FirstName;
+        Expression<Func<User, string>> lastNameAccessor = (User user) => user.LastName;
         private class FieldInfo
         {
             public string FieldName { get; set; }
