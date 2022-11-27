@@ -1,0 +1,12 @@
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\bin\Debug\net6.0\MyScannerLibrary.deps.json
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\bin\Debug\net6.0\MyScannerLibrary.dll
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\bin\Debug\net6.0\MyScannerLibrary.pdb
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\MyScannerLibrary.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\MyScannerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\MyScannerLibrary.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\MyScannerLibrary.AssemblyInfo.cs
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\MyScannerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\MyScannerLibrary.dll
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\refint\MyScannerLibrary.dll
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\MyScannerLibrary.pdb
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\ref\MyScannerLibrary.dll

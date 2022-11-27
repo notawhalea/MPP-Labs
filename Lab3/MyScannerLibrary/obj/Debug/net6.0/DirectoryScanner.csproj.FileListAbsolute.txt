@@ -1,0 +1,24 @@
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\bin\Debug\net6.0\DirectoryScanner.deps.json
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\bin\Debug\net6.0\DirectoryScanner.dll
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\bin\Debug\net6.0\DirectoryScanner.pdb
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\DirectoryScanner.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\DirectoryScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\DirectoryScanner.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\DirectoryScanner.AssemblyInfo.cs
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\DirectoryScanner.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\DirectoryScanner.dll
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\refint\DirectoryScanner.dll
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\DirectoryScanner.pdb
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\ref\DirectoryScanner.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\bin\Debug\net6.0\DirectoryScanner.deps.json
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\bin\Debug\net6.0\DirectoryScanner.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\bin\Debug\net6.0\DirectoryScanner.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\DirectoryScanner.csproj.AssemblyReference.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\DirectoryScanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\DirectoryScanner.AssemblyInfoInputs.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\DirectoryScanner.AssemblyInfo.cs
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\DirectoryScanner.csproj.CoreCompileInputs.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\DirectoryScanner.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\refint\DirectoryScanner.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\DirectoryScanner.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\MyScannerLibrary\obj\Debug\net6.0\ref\DirectoryScanner.dll

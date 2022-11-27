@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YUsZ4aVaDM+2eo+WyBxJ/QDF646KnKB+HTBiS5dXhKf87PssZVPAdpaqGP7ByBC5ZlG/bENgNi2jBjyEIZAEKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab3\\ScannerClient\\ScannerClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

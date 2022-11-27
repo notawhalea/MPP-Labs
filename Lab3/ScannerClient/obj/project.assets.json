@@ -1,0 +1,171 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "MahApps.Metro.IconPacks.Material/4.11.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Core.dll": {},
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Material.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Core.dll": {},
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Material.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "DirectoryScanner/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DirectoryScanner.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DirectoryScanner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MahApps.Metro.IconPacks.Material/4.11.0": {
+      "sha512": "ZCuuxWHvXxl39XBYXk4PCMUVtw1pevT5AE1qsj7VRy2tRtDYbzHWYW0FbnH+Vf0rP7BogZrRlKns3zFEkDEjFQ==",
+      "type": "package",
+      "path": "mahapps.metro.iconpacks.material/4.11.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/MahApps.Metro.IconPacks.Core.dll",
+        "lib/net45/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/net45/MahApps.Metro.IconPacks.Core.xml",
+        "lib/net45/MahApps.Metro.IconPacks.Material.dll",
+        "lib/net45/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/net45/MahApps.Metro.IconPacks.Material.xml",
+        "lib/net46/MahApps.Metro.IconPacks.Core.dll",
+        "lib/net46/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/net46/MahApps.Metro.IconPacks.Core.xml",
+        "lib/net46/MahApps.Metro.IconPacks.Material.dll",
+        "lib/net46/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/net46/MahApps.Metro.IconPacks.Material.xml",
+        "lib/net47/MahApps.Metro.IconPacks.Core.dll",
+        "lib/net47/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/net47/MahApps.Metro.IconPacks.Core.xml",
+        "lib/net47/MahApps.Metro.IconPacks.Material.dll",
+        "lib/net47/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/net47/MahApps.Metro.IconPacks.Material.xml",
+        "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Core.dll",
+        "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Core.xml",
+        "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Material.dll",
+        "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Material.xml",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Core.dll",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Core.xml",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Material.dll",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/netcoreapp3.0/MahApps.Metro.IconPacks.Material.xml",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Core.dll",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Core.xml",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Material.dll",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Material.xml",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Core.dll",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Core.pdb",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Core.pri",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Core.xml",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Material.dll",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Material.pdb",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Material.pri",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Material.xml",
+        "lib/uap10.0.16299/MahApps.Metro.IconPacks.Material/MahApps.Metro.IconPacks.Material.xr.xml",
+        "logo_small.png",
+        "mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512",
+        "mahapps.metro.iconpacks.material.nuspec"
+      ]
+    },
+    "DirectoryScanner/1.0.0": {
+      "type": "project",
+      "path": "../MyScannerLibrary/DirectoryScanner.csproj",
+      "msbuildProject": "../MyScannerLibrary/DirectoryScanner.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "DirectoryScanner >= 1.0.0",
+      "MahApps.Metro.IconPacks.Material >= 4.11.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab3\\ScannerClient\\ScannerClient.csproj",
+      "projectName": "ScannerClient",
+      "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab3\\ScannerClient\\ScannerClient.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab3\\ScannerClient\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab3\\MyScannerLibrary\\DirectoryScanner.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab3\\MyScannerLibrary\\DirectoryScanner.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "MahApps.Metro.IconPacks.Material": {
+            "target": "Package",
+            "version": "[4.11.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
