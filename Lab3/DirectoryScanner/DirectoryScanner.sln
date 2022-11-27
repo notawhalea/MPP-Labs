@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryScanner", "DirectoryScanner\DirectoryScanner.csproj", "{885F134F-8150-41D6-A4E1-3128DE3036A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScannerClient", "ScannerClient\ScannerClient.csproj", "{E49227A9-98AB-4617-B2F3-2ED9B74229AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{885F134F-8150-41D6-A4E1-3128DE3036A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885F134F-8150-41D6-A4E1-3128DE3036A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885F134F-8150-41D6-A4E1-3128DE3036A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885F134F-8150-41D6-A4E1-3128DE3036A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E49227A9-98AB-4617-B2F3-2ED9B74229AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E49227A9-98AB-4617-B2F3-2ED9B74229AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E49227A9-98AB-4617-B2F3-2ED9B74229AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E49227A9-98AB-4617-B2F3-2ED9B74229AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {416FB279-6A4D-4FBE-B2BA-D46D10417250}
+	EndGlobalSection
+EndGlobal
