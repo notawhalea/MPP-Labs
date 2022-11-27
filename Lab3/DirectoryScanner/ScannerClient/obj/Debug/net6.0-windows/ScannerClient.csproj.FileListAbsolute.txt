@@ -1,0 +1,56 @@
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.exe
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.deps.json
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.runtimeconfig.json
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.dll
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.pdb
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\MyScannerLibrary.pdb
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient_MarkupCompile.cache
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient_MarkupCompile.lref
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\App.baml
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.g.resources
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.AssemblyInfo.cs
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.csproj.CopyComplete
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.dll
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\refint\ScannerClient.dll
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.pdb
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.genruntimeconfig.cache
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ref\ScannerClient.dll
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\DirectoryScanner.dll
+C:\Users\Alex\Desktop\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\DirectoryScanner.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.exe
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.deps.json
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.runtimeconfig.json
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\DirectoryScanner.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\DirectoryScanner.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\bin\Debug\net6.0-windows\MyScannerLibrary.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.csproj.AssemblyReference.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\App.g.cs
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient_MarkupCompile.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient_MarkupCompile.lref
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\App.baml
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\MainWindow.baml
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.g.resources
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.AssemblyInfoInputs.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.AssemblyInfo.cs
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.csproj.CoreCompileInputs.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.csproj.CopyComplete
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\refint\ScannerClient.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.genruntimeconfig.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ref\ScannerClient.dll

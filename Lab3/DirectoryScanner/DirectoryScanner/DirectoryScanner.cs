@@ -1,6 +1,6 @@
 namespace DirectoryScanner
 {
-    internal static class Program
+    internal static class DirectoryScanner
     {
         /// <summary>
         ///  The main entry point for the application.
