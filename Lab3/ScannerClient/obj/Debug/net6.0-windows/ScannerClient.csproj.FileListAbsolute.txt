@@ -54,3 +54,31 @@ D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаб
 D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.pdb
 D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.genruntimeconfig.cache
 D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба3\LaboratoryWork_DirectoryScanner-main\LaboratoryWork_DirectoryScanner-main\ScannerClient\obj\Debug\net6.0-windows\ref\ScannerClient.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.exe
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.deps.json
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\bin\Debug\net6.0-windows\ScannerClient.pdb
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\bin\Debug\net6.0-windows\DirectoryScanner.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\bin\Debug\net6.0-windows\DirectoryScanner.pdb
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\bin\Debug\net6.0-windows\MyScannerLibrary.pdb
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\ScannerClient_MarkupCompile.cache
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\ScannerClient_MarkupCompile.lref
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\App.baml
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.g.resources
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\refint\ScannerClient.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.pdb
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\ScannerClient.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab3\ScannerClient\obj\Debug\net6.0-windows\ref\ScannerClient.dll

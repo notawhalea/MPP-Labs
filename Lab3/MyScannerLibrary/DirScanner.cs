@@ -13,12 +13,12 @@ namespace DirectoryScanner
 
     public class Entity
     {
-        public FileSystemInfo Info { get; set; } // Системная информация о сущности
-        public string Name { get; set; } // Имя
-        public EntityType Type { get; set; } // Тип сущности
-        public DirectoryInfo SubDirecory { get; set; } // Каталог, в котором содержится сущность (null для головной)
-        public long? Size { get; set; } = null; // размер (в байтах)
-        public string? Persantage { get; set; } = null; // размер (в процентах от всего содержимого каталога)
+        public FileSystemInfo Info { get; set; } 
+        public string Name { get; set; } 
+        public EntityType Type { get; set; } 
+        public DirectoryInfo SubDirecory { get; set; } 
+        public long? Size { get; set; } = null;
+        public string? Persantage { get; set; } = null; 
 
         public Entity() { }
     }
@@ -35,18 +35,12 @@ namespace DirectoryScanner
 
             isWorking = true;
 
-
             // список всех сущностей (файлов и директорий)
             List<Entity> entities = new List<Entity>();
-
-            //Получить головной каталог для начала процесса
             string directoryPath = filePath;
             DirectoryInfo headDirectory = new DirectoryInfo(directoryPath);
-
-            // добавить головной каталог как сущность
             entities.Add(CreateEntityFromDirectory(headDirectory, isHeadDirectory: true));
 
-            //получить абсолютно все файлы и директории (включая скрытые)
             FileSystemInfo[] filesAndDirectories_HeadDirectory = headDirectory.GetFileSystemInfos();
 
             foreach (var item in filesAndDirectories_HeadDirectory)
