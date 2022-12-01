@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab4\\TestGenerator\\TestGenerator\\TestGenerator.csproj": {}
+    "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab4\\TestsGeneratorDll\\TestsGeneratorDll.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab4\\TestGenerator\\TestGenerator\\TestGenerator.csproj": {
+    "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab4\\TestsGeneratorDll\\TestsGeneratorDll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab4\\TestGenerator\\TestGenerator\\TestGenerator.csproj",
-        "projectName": "TestGenerator",
-        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab4\\TestGenerator\\TestGenerator\\TestGenerator.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab4\\TestsGeneratorDll\\TestsGeneratorDll.csproj",
+        "projectName": "TestsGeneratorDll",
+        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab4\\TestsGeneratorDll\\TestsGeneratorDll.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab4\\TestGenerator\\TestGenerator\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Документы\\GitHub\\MPP-Labs\\Lab4\\TestsGeneratorDll\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
