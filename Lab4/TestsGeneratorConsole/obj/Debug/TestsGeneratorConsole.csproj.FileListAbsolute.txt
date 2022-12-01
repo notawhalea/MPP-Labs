@@ -1,0 +1,22 @@
+C:\Users\Alex\Desktop\TestsGenerator-main\TestsGeneratorConsole\bin\Debug\TestsGeneratorConsole.exe.config
+C:\Users\Alex\Desktop\TestsGenerator-main\TestsGeneratorConsole\bin\Debug\TestsGeneratorConsole.exe
+C:\Users\Alex\Desktop\TestsGenerator-main\TestsGeneratorConsole\bin\Debug\TestsGeneratorConsole.pdb
+C:\Users\Alex\Desktop\TestsGenerator-main\TestsGeneratorConsole\bin\Debug\TestsGeneratorDll.dll
+C:\Users\Alex\Desktop\TestsGenerator-main\TestsGeneratorConsole\bin\Debug\TestsGeneratorDll.pdb
+C:\Users\Alex\Desktop\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.csproj.CopyComplete
+C:\Users\Alex\Desktop\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.exe
+C:\Users\Alex\Desktop\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба4\TestsGenerator-main\TestsGenerator-main\TestsGeneratorConsole\bin\Debug\TestsGeneratorConsole.exe.config
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба4\TestsGenerator-main\TestsGenerator-main\TestsGeneratorConsole\bin\Debug\TestsGeneratorConsole.exe
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба4\TestsGenerator-main\TestsGenerator-main\TestsGeneratorConsole\bin\Debug\TestsGeneratorConsole.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба4\TestsGenerator-main\TestsGenerator-main\TestsGeneratorConsole\bin\Debug\TestsGeneratorDll.dll
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба4\TestsGenerator-main\TestsGenerator-main\TestsGeneratorConsole\bin\Debug\TestsGeneratorDll.pdb
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба4\TestsGenerator-main\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.csproj.AssemblyReference.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба4\TestsGenerator-main\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.csproj.SuggestedBindingRedirects.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба4\TestsGenerator-main\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.csproj.CoreCompileInputs.cache
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба4\TestsGenerator-main\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.csproj.CopyComplete
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба4\TestsGenerator-main\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.exe
+D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба4\TestsGenerator-main\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.pdb
