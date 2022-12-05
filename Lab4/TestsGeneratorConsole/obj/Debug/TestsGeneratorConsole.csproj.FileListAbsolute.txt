@@ -20,3 +20,14 @@ D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаб
 D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба4\TestsGenerator-main\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.csproj.CopyComplete
 D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба4\TestsGenerator-main\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.exe
 D:\БГУИР\3 курс\5 семестр\СПП\Лабораторные\Лаба4\TestsGenerator-main\TestsGenerator-main\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.pdb
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab4\TestsGeneratorConsole\bin\Debug\TestsGeneratorConsole.exe.config
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab4\TestsGeneratorConsole\bin\Debug\TestsGeneratorConsole.exe
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab4\TestsGeneratorConsole\bin\Debug\TestsGeneratorConsole.pdb
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab4\TestsGeneratorConsole\bin\Debug\TestsGeneratorDll.dll
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab4\TestsGeneratorConsole\bin\Debug\TestsGeneratorDll.pdb
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab4\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab4\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab4\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab4\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab4\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.exe
+C:\Users\Lenovo\OneDrive\Документы\GitHub\MPP-Labs\Lab4\TestsGeneratorConsole\obj\Debug\TestsGeneratorConsole.pdb
